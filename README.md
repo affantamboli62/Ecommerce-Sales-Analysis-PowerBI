@@ -60,6 +60,16 @@ This dashboard can be used by:
 - Data Analyst Portfolio Projects
 
 ---
+## 📸 Dashboard Preview
+
+![Ecommerce Sales Dashboard](dashboard.png)
+## 📸 Dashboard Preview
+
+![Ecommerce Sales Dashboard](salesanalysis.png)
+## 📸 Dashboard Preview
+
+![Ecommerce Sales Dashboard](orderanalysis.png)
+
 
 ## 🙌 Conclusion
 This project demonstrates my ability to analyze business data, build interactive dashboards, and generate meaningful insights using **Power BI**.
